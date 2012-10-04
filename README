@@ -1,0 +1,15 @@
+######ABOUT THE PROJECT#######
+
+This is the read me for milind's C learning project. 
+
+I wish to complete some C programming exercises here, only to keep myself sharp.
+
+Compilation and running has been tested on a cygwin-x86 machine but should run on any linux machine as well.
+
+######## RUNNING AND COMPILING #####
+
+cd src 
+make 
+
+########## GETTING HELP ###########
+Write a mail to milind110-at-gmail-dot-com but I don't know why you would need help with any of this.
